@@ -1,8 +1,9 @@
-# Lost-in-Translation
-Analysis of 80 online Duolingo reviews sourced from Reddit and Google Play
+# Lost in Translation:
+What Do Duolingo Users Actually Want?
+An analysis of 80 online Duolingo reviews sourced from Reddit and Google Play.
 
 ## Overview
-This purpose of this project was to understand what users actually want from a language learning app, how satisfied they are, and whether the app is meeting their underlying goals. Reviews were manually collected, categorized using Claude and CHatGPT, and visualized in Power BI.
+This purpose of this project was to understand what users actually want from a language learning app, how satisfied they are, and whether the app is meeting their underlying goals. Reviews were manually collected, categorized using Claude and ChatGPT, and visualized in Power BI.
 
 ## Key Questions
 • What types of users are actually using Duolingo, and what do they want from it?
