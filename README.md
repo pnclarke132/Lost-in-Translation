@@ -2,7 +2,6 @@
 Analysis of 80 online Duolingo reviews sourced from Reddit and Google Play
 
 ## Overview
-Overview
 This purpose of this project was to understand what users actually want from a language learning app, how satisfied they are, and whether the app is meeting their underlying goals. Reviews were manually collected, categorized using Claude and CHatGPT, and visualized in Power BI.
 
 ## Key Questions
